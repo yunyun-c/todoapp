@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://gregarious-alfajores-366fbc.netlify.app/">
+    <a href="https://snazzy-rabanadas-c1fa4f.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/yunyun-c/input-component">
+    <a href="https://github.com/yunyun-c/todoapp">
       Solution
     </a>
     <span> | </span>
